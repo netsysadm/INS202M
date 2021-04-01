@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Data Flow and Threat Graph"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Graph",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
